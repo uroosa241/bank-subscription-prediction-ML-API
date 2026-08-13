@@ -1,5 +1,3 @@
-Absolutely. I’d make it **professional and portfolio-ready**, but not exaggerate what the project does. You can copy this directly into `README.md`.
-
 # Bank Customer Subscription Prediction
 
 **End-to-End Machine Learning Application | Python • Scikit-learn • FastAPI • Streamlit**
