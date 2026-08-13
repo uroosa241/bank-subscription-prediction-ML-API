@@ -6,7 +6,7 @@ import pandas as pd
 app = FastAPI()
 
 # Load saved files
-model = joblib.load("bank_subscription_model.pkl")
+model = joblib.load("bank_subscription_model_compressed_5.joblib")
 scaler = joblib.load("scaler.pkl")
 columns = joblib.load("columns.pkl")
 
